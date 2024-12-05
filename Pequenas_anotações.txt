@@ -1,0 +1,36 @@
+Recomendo Baixar alguma extensão do bootstrap para maior facilidade baixei aqui no vscode a (Booststrap 5 Quick Snippets)
+
+
+---------------------------Sistema de Grid-------------------------------- 
+
+Usa se a classe Row e Col msm padrão de tabelas
+
+o numero maximo de colunas é de 12
+
+para aumentar o tamanho da coluna você pode por por percentual por exemplo col-7 nesse caso ele vai ocupar o espaço de 7 blocos
+
+-----------------------containers--------------------------------------------
+
+Usando a clase container podemos delimitar o espaço tendo algumas variações como o container-sm | container-xxl | container-fluid
+melhor olhar na documentação os containers
+
+temos outro ponto que podemos fazer um gerenciamento dos tamanhos da coluna de forma que muda o tamanho de colunas que ocupa usando o tamanho da tela como base
+
+por exemplos o codigo col-md-6 ou seja quando chegar na classificação md ele ocupará a metade da coluna
+
+ou col-sm-12 que irá preencher toda a linha exemplo de classe com codigo
+
+<div class="col col-3 col-sm-12 col-md-5 col-lg-7">Linha1 Coluna2</div>
+
+------------------------ Margem espaçamento e bordas -------------------------------------
+
+elementos da caixa são acessados da seguinte forma border = border | margin = m | padding = padding
+
+eles vão de 1 a 5 tipo p1,p2,p3,p4,p5 em resumo aumenta o tamanho do espaçamento
+
+tambem podemos por em apenas algum lado do elemento usando t : cima | b : baixo | s : inicio | e : fim
+
+para border é diferente tem que usar border-top , border-bottom, border-start , border-end
+
+--------------------------- Formularios ----------------------------------------
+
