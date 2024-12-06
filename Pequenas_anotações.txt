@@ -34,3 +34,20 @@ para border é diferente tem que usar border-top , border-bottom, border-start ,
 
 --------------------------- Formularios ----------------------------------------
 
+temos varios tipos de input melhor olhar as docs
+
+podemos usar um atributo adicional no form-control que é o lg e sm ficando assim form-control-sm / lg
+
+o mais comum é o form-control que se usa em quase todos inputs tendo uma estilização propria
+
+na check box e radio por exemplo o nome é diferente form-check-control
+
+no range tem o proprio tambem form-radio
+
+no select tbm tem form-select
+
+temos formatação para labels tbm form-label
+
+texto de ajuda para determinados campos de 2 forma na msm linha e em linhas diferentes form-text | form-text-inline
+
+----------------------------------- botões ---------------------------------------------
