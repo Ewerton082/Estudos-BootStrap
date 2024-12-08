@@ -51,3 +51,27 @@ temos formatação para labels tbm form-label
 texto de ajuda para determinados campos de 2 forma na msm linha e em linhas diferentes form-text | form-text-inline
 
 ----------------------------------- botões ---------------------------------------------
+
+
+os botões são estilizados usando a classe btn e btn-primary ou as outras cores
+podemos atribuir essa classe tanto para buttons, a, input:submit
+
+outro atributo é o btn-outline-primary que faz com que o botão seja transparente enquanto não passar o mause me cima
+
+os tamanhos tambem podem ser alterados usando a classe btn-lg ou os outros tamanhos sm, md, lg
+
+---------------------------------- Tipografia -------------------------------------------
+
+não aprendi muito mas para alinhar o texto aos lados da tela usa-se text-end ou text-center
+
+podemos aumentar o tamanho usando display-6 vai de 1 a 6 esse
+
+temos a tag small que deixa pequeno
+
+------------------------------------ imagens -----------------------------------------
+
+não há muitas tags para imagens mas as que temos pode ser usadas para tudo
+
+a tag img-thumbnail faz com que se crie uma borda ao redor da imagem e faz ela se ajustar ao tamanho maximo do container que tá inserida
+
+a tag img-fluid em resumo faz uma função parecida porém somente ocupa todo espaço disponivel
