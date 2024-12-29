@@ -75,3 +75,22 @@ não há muitas tags para imagens mas as que temos pode ser usadas para tudo
 a tag img-thumbnail faz com que se crie uma borda ao redor da imagem e faz ela se ajustar ao tamanho maximo do container que tá inserida
 
 a tag img-fluid em resumo faz uma função parecida porém somente ocupa todo espaço disponivel
+
+------------------------------------ Tabelas -----------------------------------------------
+
+na tag table adicione a classe table para começar e temos variaveis como a table-striped que deixar zebrada tambem temos a table-hover que deixa destacado a que você está em cima
+
+podemos mudar as cores usando o msm sistema de sempre tables-cor_desejada
+
+Para aplicarmos bordas em todos usa-se a class table-bordered
+
+----------------------------Componentes visuais tipo mensagens----------------------------
+
+Alert essa classe serve para criar alguns alertas bem destacados adiciona-se a classe alert dentro de alguma caixa
+
+você pode destacar link dentro do alerta usando a classe alert-link dentro da tag a
+
+pode se usar um alerta diferente com o botão de fechar o alerta usando as classes de alert-dismissible, fade, show | e criando o botão com a classe btn-close e o data-bs-dismiss de alert e o aria-label Close
+
+o badge é em resumo é um alerta que parece uma isignia bem destacada
+
