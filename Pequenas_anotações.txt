@@ -76,6 +76,8 @@ a tag img-thumbnail faz com que se crie uma borda ao redor da imagem e faz ela s
 
 a tag img-fluid em resumo faz uma função parecida porém somente ocupa todo espaço disponivel
 
+classe shadow adiciona uma sombra na imagem que varia de acordo com o tamanho escolhido lg sm
+
 ------------------------------------ Tabelas -----------------------------------------------
 
 na tag table adicione a classe table para começar e temos variaveis como a table-striped que deixar zebrada tambem temos a table-hover que deixa destacado a que você está em cima
@@ -94,3 +96,10 @@ pode se usar um alerta diferente com o botão de fechar o alerta usando as class
 
 o badge é em resumo é um alerta que parece uma isignia bem destacada
 
+--------------------------Cards---------------------------------------------------------
+
+Você Pode Copiar o card da propria wiki para fazer as alterações o uso mais comum é atribuir ela a um gird system para por exemplo mostrar varios dados
+
+recomendo olhar o arquivo que criamos card.html para entender melhor
+
+-------------------------
