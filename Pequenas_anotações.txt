@@ -75,3 +75,5 @@ não há muitas tags para imagens mas as que temos pode ser usadas para tudo
 a tag img-thumbnail faz com que se crie uma borda ao redor da imagem e faz ela se ajustar ao tamanho maximo do container que tá inserida
 
 a tag img-fluid em resumo faz uma função parecida porém somente ocupa todo espaço disponivel
+
+classe shadow adiciona uma sombra na imagem que varia de acordo com otamanho escolhido lg sm
