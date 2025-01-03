@@ -102,4 +102,4 @@ Você Pode Copiar o card da propria wiki para fazer as alterações o uso mais c
 
 recomendo olhar o arquivo que criamos card.html para entender melhor
 
--------------------------
+----------------------------------------------------
