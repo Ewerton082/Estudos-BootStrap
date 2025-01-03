@@ -102,4 +102,22 @@ Você Pode Copiar o card da propria wiki para fazer as alterações o uso mais c
 
 recomendo olhar o arquivo que criamos card.html para entender melhor
 
--------------------------
+------------------------- modal ------------------------------------------
+
+o modal tbm recomendo copiar da doc mas tentando explicar
+
+o botão do modal tem que ter o atributo data-bs-target que vai apontar para o id do modal por exemplo "#ExemploModal"
+
+o modal terá que ter o id de "ExemploModal"
+
+dentro dele temos alguns blocos o [header, body, footer]
+
+-------------------------------- popover e tooltip --------------------------------------
+
+popover é uma caixinha de texto que parece uma  modal porém mais simplificada
+
+para usar esse conteudo usa se um botão e adiciona os seguintes atributos [data-bs-toggle="popover", title="Titulo do popover", data-bs-content="Aqui é o conteudo do assunto do popover"]
+
+ja o tooltip é parecido tbm porém só tem 2 atributos o title e o data-bs-toggle que vai ser tooltip
+
+lembrando que tanto um quanto outro precisa incluir um script para poder funcionar olhem nas docs
